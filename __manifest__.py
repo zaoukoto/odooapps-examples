@@ -9,7 +9,10 @@
     'category': 'Productivity',
     'website': 'https://altela.my.id',
     'depends' : [],
-    'data': [],
+# Insert your .xml here
+    'data': [
+        'views/patient.xml'
+    ],
     'demo': [],
     'qweb': [],
     'installable': True,
